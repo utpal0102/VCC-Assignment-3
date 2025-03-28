@@ -1,0 +1,2 @@
+# Run auto_scale.sh every 5 minutes
+*/5 * * * * ~/auto_scale.sh
